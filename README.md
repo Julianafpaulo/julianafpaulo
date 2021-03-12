@@ -7,16 +7,9 @@ My name is Juliana de Faria Paulo. I work as a Software Developer at Zup I.T. In
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=julianafpaulo&repo=julianafpaulo&countColorcountColor)
 
-### Languages & Tools 🛠  
-
-
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianafpaulo&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=julianafpaulo&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=julianafpaulo&hide_border=true)
 
 ### Let's connect? 🤝
 
